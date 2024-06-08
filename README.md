@@ -8,7 +8,7 @@ Whether you're just starting your journey or looking to expand your skills, unde
 |--------|-----------------------------------|---------------|---------------|
 | ✅     | Variables and Data Types          | [📖](./01_Beginner/01_Variables_and_Data_Types/README.md)       | [👨‍💻](./01_Beginner/01_Variables_and_Data_Types/example.py)     |
 | ✅     | Type Casting                      | [📖](./01_Beginner/02_Type_Casting_In/README.md)       | [👨‍💻](./01_Beginner/02_Type_Casting_In/example.py)     |
-| ❌     | User Input                        | [📖](#)       | [👨‍💻](#)     |
+| ✅     | User Input                        | [📖](./01_Beginner/03_User_Input/README.md)       | [👨‍💻](./01_Beginner/03_User_Input/example.py)     |
 | ❌     | Math                              | [📖](#)       | [👨‍💻](#)     |
 | ❌     | If Statements                     | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Calculator Program                | [📖](#)       | [👨‍💻](#)     |
