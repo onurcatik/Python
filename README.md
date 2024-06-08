@@ -6,7 +6,7 @@ Whether you're just starting your journey or looking to expand your skills, unde
 
 | Status | Topic                                       | Doc                 | Code                |
 |--------|---------------------------------------------|---------------------|---------------------|
-| 💡     | Variables and Data Types                    | 📖                   |                     |
+| 💡     | Variables and Data Types                    | [📖](./01_Beginner/01_Variables_and_Data_Types/README.md)                | [Code](./01_Beginner/01_Variables_and_Data_Types/example.py)                    |
 | 💡     | Type Casting In                             | 📖                   |                     |
 | 💡     | User Input                                  | 📖                   |                     |
 | 💡     | Math                                        | 📖                   |                     |
