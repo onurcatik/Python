@@ -9,8 +9,8 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅     | Variables and Data Types          | [📖](./01_Beginner/01_Variables_and_Data_Types/README.md)       | [👨‍💻](./01_Beginner/01_Variables_and_Data_Types/example.py)     |
 | ✅     | Type Casting                      | [📖](./01_Beginner/02_Type_Casting_In/README.md)       | [👨‍💻](./01_Beginner/02_Type_Casting_In/example.py)     |
 | ✅     | User Input                        | [📖](./01_Beginner/03_User_Input/README.md)       | [👨‍💻](./01_Beginner/03_User_Input/example.py)     |
-| ❌     | Math                              | [📖](#)       | [👨‍💻](#)     |
-| ❌     | If Statements                     | [📖](#)       | [👨‍💻](#)     |
+| ✅      | Math                              | [📖](./01_Beginner/04_Math/README.md)       | [👨‍💻](./01_Beginner/04_Math/example.py)     |
+| ✅      | If Statements                     | [📖](./01_Beginner/05_If_Statements/README.md)       | [👨‍💻](./01_Beginner/05_If_Statements/example.py)     |
 | ❌     | Calculator Program                | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Weight Conversion Exercise        | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Temperature Conversion Program    | [📖](#)       | [👨‍💻](#)     |
