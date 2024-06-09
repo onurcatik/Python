@@ -11,8 +11,8 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅     | User Input                        | [📖](./01_Beginner/03_User_Input/README.md)       | [👨‍💻](./01_Beginner/03_User_Input/example.py)     |
 | ✅      | Math                              | [📖](./01_Beginner/04_Math/README.md)       | [👨‍💻](./01_Beginner/04_Math/example.py)     |
 | ✅      | If Statements                     | [📖](./01_Beginner/05_If_Statements/README.md)       | [👨‍💻](./01_Beginner/05_If_Statements/example.py)     |
-| ❌     | Calculator Program                | [📖](#)       | [👨‍💻](#)     |
-| ❌     | Weight Conversion Exercise        | [📖](#)       | [👨‍💻](#)     |
+| ✅     | Calculator Program                | [📖](./01_Beginner/06_Calculator_Program/README.md)       | [👨‍💻](./01_Beginner/06_Calculator_Program/example.py)     |
+| ✅      | Weight Conversion Exercise        | [📖](./01_Beginner/07_Weight_Conversion_Exercise/README.md)       | [👨‍💻](./01_Beginner/07_Weight_Conversion_Exercise/example.py)     |
 | ❌     | Temperature Conversion Program    | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Logical Operators                 | [📖](#)       | [👨‍💻](#)     |
 | ❌     | String Methods                    | [📖](#)       | [👨‍💻](#)     |
