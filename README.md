@@ -14,7 +14,7 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅     | Calculator Program                | [📖](./01_Beginner/06_Calculator_Program/README.md)       | [👨‍💻](./01_Beginner/06_Calculator_Program/example.py)     |
 | ✅      | Weight Conversion Exercise        | [📖](./01_Beginner/07_Weight_Conversion_Exercise/README.md)       | [👨‍💻](./01_Beginner/07_Weight_Conversion_Exercise/example.py)     |
 | ✅     | Temperature Conversion Program    | [📖](./01_Beginner/08_Temperature_Conversion_Program/README.md)       | [👨‍💻](./01_Beginner/08_Temperature_Conversion_Program/example.py)     |
-| ❌     | Logical Operators                 | [📖](#)       | [👨‍💻](#)     |
+| ✅     | Logical Operators                 | [📖](./01_Beginner/09_Logical_Operators/README.md)       | [👨‍💻](./01_Beginner/09_Logical_Operators/example.py)     |
 | ❌     | String Methods                    | [📖](#)       | [👨‍💻](#)     |
 | ❌     | String Indexing                   | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Email Slicer                      | [📖](#)       | [👨‍💻](#)     |
