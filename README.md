@@ -13,7 +13,7 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅      | If Statements                     | [📖](./01_Beginner/05_If_Statements/README.md)       | [👨‍💻](./01_Beginner/05_If_Statements/example.py)     |
 | ✅     | Calculator Program                | [📖](./01_Beginner/06_Calculator_Program/README.md)       | [👨‍💻](./01_Beginner/06_Calculator_Program/example.py)     |
 | ✅      | Weight Conversion Exercise        | [📖](./01_Beginner/07_Weight_Conversion_Exercise/README.md)       | [👨‍💻](./01_Beginner/07_Weight_Conversion_Exercise/example.py)     |
-| ❌     | Temperature Conversion Program    | [📖](#)       | [👨‍💻](#)     |
+| ✅     | Temperature Conversion Program    | [📖](./01_Beginner/08_Temperature_Conversion_Program/README.md)       | [👨‍💻](./01_Beginner/08_Temperature_Conversion_Program/example.py)     |
 | ❌     | Logical Operators                 | [📖](#)       | [👨‍💻](#)     |
 | ❌     | String Methods                    | [📖](#)       | [👨‍💻](#)     |
 | ❌     | String Indexing                   | [📖](#)       | [👨‍💻](#)     |
