@@ -17,7 +17,7 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅     | Logical Operators                 | [📖](./01_Beginner/09_Logical_Operators/README.md)       | [👨‍💻](./01_Beginner/09_Logical_Operators/example.py)     |
 | ✅      | String Methods                    | [📖](./01_Beginner/10_String_Methods/README.md)       | [👨‍💻](./01_Beginner/10_String_Methods/example.py)     |
 | ✅      | String Indexing                   | [📖](./01_Beginner/11_String_Indexing/README.md)       | [👨‍💻](./01_Beginner/11_String_Indexing/example.py)     |
-| ❌     | Email Slicer                      | [📖](#)       | [👨‍💻](#)     |
+| ✅     | Email Slicer                      | [📖](./01_Beginner/12_Email_Slicer/README.md)       | [👨‍💻](./01_Beginner/12_Email_Slicer/example.py)     |
 | ❌     | Format Specifiers                 | [📖](#)       | [👨‍💻](#)     |
 | ❌     | While Loops                       | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Compound Interest Calculator      | [📖](#)       | [👨‍💻](#)     |
