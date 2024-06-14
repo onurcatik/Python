@@ -20,8 +20,8 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅     | Email Slicer                      | [📖](./01_Beginner/12_Email_Slicer/README.md)       | [👨‍💻](./01_Beginner/12_Email_Slicer/example.py)     |
 | ✅      | Format Specifiers                 | [📖](./01_Beginner/13_Format_Specifiers/README.md)       | [👨‍💻](./01_Beginner/13_Format_Specifiers/example.py)     |
 | ✅      | While Loops                       | [📖](./01_Beginner/14_While_Loops/README.md)       | [👨‍💻](./01_Beginner/14_While_Loops/example.py)     |
-| ❌     | Compound Interest Calculator      | [📖](#)       | [👨‍💻](#)     |
-| ❌     | For Loops                         | [📖](#)       | [👨‍💻](#)     |
+| ✅     | Compound Interest Calculator      | [📖](./01_Beginner/15_Compound_Interest_Calculator/README.md)       | [👨‍💻](./01_Beginner/15_Compound_Interest_Calculator/example.py)     |
+| ✅     | For Loops                         | [📖](./01_Beginner/16_For_Loops/README.md)       | [👨‍💻](./01_Beginner/16_For_Loops/example.py)     |
 | ❌     | Nested Loops                      | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Countdown Timer Program           | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Credit Card Validator             | [📖](#)       | [👨‍💻](#)     |
