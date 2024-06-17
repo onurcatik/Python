@@ -22,8 +22,8 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅      | While Loops                       | [📖](./01_Beginner/14_While_Loops/README.md)       | [👨‍💻](./01_Beginner/14_While_Loops/example.py)     |
 | ✅     | Compound Interest Calculator      | [📖](./01_Beginner/15_Compound_Interest_Calculator/README.md)       | [👨‍💻](./01_Beginner/15_Compound_Interest_Calculator/example.py)     |
 | ✅     | For Loops                         | [📖](./01_Beginner/16_For_Loops/README.md)       | [👨‍💻](./01_Beginner/16_For_Loops/example.py)     |
-| ❌     | Nested Loops                      | [📖](#)       | [👨‍💻](#)     |
-| ❌     | Countdown Timer Program           | [📖](#)       | [👨‍💻](#)     |
+| ✅     | Nested Loops                      | [📖](./01_Beginner/17_Nested_Loops/README.md)       | [👨‍💻](./01_Beginner/17_Nested_Loops/example.py)     |
+| ✅     | Countdown Timer Program           | [📖](./01_Beginner/18_Countdown_Timer_Program/README.md)       | [👨‍💻](./01_Beginner/18_Countdown_Timer_Program/example.py)     |
 | ❌     | Credit Card Validator             | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Lists, Sets, and Tuples Explained | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Shopping Cart Program             | [📖](#)       | [👨‍💻](#)     |
