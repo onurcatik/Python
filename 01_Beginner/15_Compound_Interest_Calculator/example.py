@@ -1,10 +1,10 @@
-def get_valid_input(prompt, data_type=float)
+def get_valid_input(prompt, data_type=float):
     while True:
         try:
             value = data_type(input(prompt))
             if value <= 0:
                 print(f"{data_type.__name__.capitalize()} cannot be less than or dqual to zero . Please try again.")
-                else
+            else:
                 return value
         except ValueError:
             print(f"Invalid Input {data_type.__name__}")

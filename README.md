@@ -24,9 +24,8 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅     | For Loops                         | [📖](./01_Beginner/16_For_Loops/README.md)       | [👨‍💻](./01_Beginner/16_For_Loops/example.py)     |
 | ✅     | Nested Loops                      | [📖](./01_Beginner/17_Nested_Loops/README.md)       | [👨‍💻](./01_Beginner/17_Nested_Loops/example.py)     |
 | ✅     | Countdown Timer Program           | [📖](./01_Beginner/18_Countdown_Timer_Program/README.md)       | [👨‍💻](./01_Beginner/18_Countdown_Timer_Program/example.py)     |
-| ❌     | Credit Card Validator             | [📖](#)       | [👨‍💻](#)     |
-| ❌     | Lists, Sets, and Tuples Explained | [📖](#)       | [👨‍💻](#)     |
-| ❌     | Shopping Cart Program             | [📖](#)       | [👨‍💻](#)     |
+| ✅     | Lists, Sets, and Tuples Explained | [📖](./01_Beginner/20_Lists_Sets_and_Tuples_Explained/README.md)       | [👨‍💻](./01_Beginner/20_Lists_Sets_and_Tuples_Explained/example.py)     |
+| ✅     | Shopping Cart Program             | [📖](./01_Beginner/21_Shopping_Cart_Program/README.md)       | [👨‍💻](./01_Beginner/21_Shopping_Cart_Program/example.py)     |
 | ❌     | 2D Collections                    | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Create a Quiz Game                | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Dictionaries                      | [📖](#)       | [👨‍💻](#)     |
