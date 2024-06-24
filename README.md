@@ -28,8 +28,8 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅     | Shopping Cart Program             | [📖](./01_Beginner/21_Shopping_Cart_Program/README.md)       | [👨‍💻](./01_Beginner/21_Shopping_Cart_Program/example.py)     |
 | ✅      | 2D Collections                    | [📖](./01_Beginner/22_2D_Collections/README.md)       | [👨‍💻](./01_Beginner/22_2D_Collections/example.py)     |
 | ✅     | Create a Quiz Game                | [📖](./01_Beginner/23_Create_a_Quiz_Game/README.md)       | [👨‍💻](./01_Beginner/23_Create_a_Quiz_Game/example.py)     |
-| ❌     | Dictionaries                      | [📖](#)       | [👨‍💻](#)     |
-| ❌     | Concession Stand Program          | [📖](#)       | [👨‍💻](#)     |
+| ✅     | Dictionaries                      | [📖](./01_Beginner/24_Dictionaries/README.md)       | [👨‍💻](./01_Beginner/24_Dictionaries/example.py)     |
+| ✅     | Concession Stand Program          | [📖](./01_Beginner/25_Concession_Stand_Program/README.md)       | [👨‍💻](./01_Beginner/25_Concession_Stand_Program/example.py)     |
 | ❌     | Generate Random Numbers           | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Rock Paper Scissors Game          | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Dice Roller Program               | [📖](#)       | [👨‍💻](#)     |
