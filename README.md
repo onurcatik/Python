@@ -30,7 +30,7 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅     | Create a Quiz Game                | [📖](./01_Beginner/23_Create_a_Quiz_Game/README.md)       | [👨‍💻](./01_Beginner/23_Create_a_Quiz_Game/example.py)     |
 | ✅     | Dictionaries                      | [📖](./01_Beginner/24_Dictionaries/README.md)       | [👨‍💻](./01_Beginner/24_Dictionaries/example.py)     |
 | ✅     | Concession Stand Program          | [📖](./01_Beginner/25_Concession_Stand_Program/README.md)       | [👨‍💻](./01_Beginner/25_Concession_Stand_Program/example.py)     |
-| ❌     | Generate Random Numbers           | [📖](#)       | [👨‍💻](#)     |
+| ✅     | Generate Random Numbers           | [📖](./01_Beginner/26_Generate_Random_Numbers/README.md)       | [👨‍💻](./01_Beginner/26_Generate_Random_Numbers/example.py)     |
 | ❌     | Rock Paper Scissors Game          | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Dice Roller Program               | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Encryption Program                | [📖](#)       | [👨‍💻](#)     |
