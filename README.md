@@ -32,7 +32,7 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅     | Concession Stand Program          | [📖](./01_Beginner/25_Concession_Stand_Program/README.md)       | [👨‍💻](./01_Beginner/25_Concession_Stand_Program/example.py)     |
 | ✅     | Generate Random Numbers           | [📖](./01_Beginner/26_Generate_Random_Numbers/README.md)       | [👨‍💻](./01_Beginner/26_Generate_Random_Numbers/example.py)     |
 | ✅     | Rock Paper Scissors Game          | [📖](./01_Beginner/27_Rock_Paper_Scissors_Game/README.md)       | [👨‍💻](./01_Beginner/27_Rock_Paper_Scissors_Game/example.py)     |
-| ❌     | Dice Roller Program               | [📖](#)       | [👨‍💻](#)     |
+| ✅     | Dice Roller Program               | [📖](./01_Beginner/28_Dice_Roller_Program/README.md)       | [👨‍💻](./01_Beginner/28_Dice_Roller_Program/example.py)     |
 | ❌     | Encryption Program                | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Functions                         | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Default Arguments                 | [📖](#)       | [👨‍💻](#)     |
