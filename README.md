@@ -35,7 +35,7 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅     | Dice Roller Program               | [📖](./01_Beginner/28_Dice_Roller_Program/README.md)       | [👨‍💻](./01_Beginner/28_Dice_Roller_Program/example.py)     |
 | ✅      | Encryption Program                | [📖](./01_Beginner/29_Encryption_Program/README.md)       | [👨‍💻](./01_Beginner/29_Encryption_Program/example.py)     |
 | ✅     | Functions                         | [📖](./01_Beginner/30_Functions/README.md)       | [👨‍💻](./01_Beginner/30_Functions/example.py)     |
-| ❌     | Default Arguments                 | [📖](#)       | [👨‍💻](#)     |
+| ✅    | Default Arguments                 | [📖](./01_Beginner/31_Default_Arguments/README.md)       | [👨‍💻](./01_Beginner/31_Default_Arguments/example.py)     |
 | ❌     | Keyword Arguments                 | [📖](#)       | [👨‍💻](#)     |
 | ❌     | *ARGS & **KWARGS                  | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Modules                           | [📖](#)       | [👨‍💻](#)     |
