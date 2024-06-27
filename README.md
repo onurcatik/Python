@@ -33,7 +33,7 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅     | Generate Random Numbers           | [📖](./01_Beginner/26_Generate_Random_Numbers/README.md)       | [👨‍💻](./01_Beginner/26_Generate_Random_Numbers/example.py)     |
 | ✅     | Rock Paper Scissors Game          | [📖](./01_Beginner/27_Rock_Paper_Scissors_Game/README.md)       | [👨‍💻](./01_Beginner/27_Rock_Paper_Scissors_Game/example.py)     |
 | ✅     | Dice Roller Program               | [📖](./01_Beginner/28_Dice_Roller_Program/README.md)       | [👨‍💻](./01_Beginner/28_Dice_Roller_Program/example.py)     |
-| ❌     | Encryption Program                | [📖](#)       | [👨‍💻](#)     |
+| ✅      | Encryption Program                | [📖](./01_Beginner/29_Encryption_Program/README.md)       | [👨‍💻](./01_Beginner/29_Encryption_Program/example.py)     |
 | ❌     | Functions                         | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Default Arguments                 | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Keyword Arguments                 | [📖](#)       | [👨‍💻](#)     |
