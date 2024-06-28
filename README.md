@@ -37,7 +37,7 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅     | Functions                         | [📖](./01_Beginner/30_Functions/README.md)       | [👨‍💻](./01_Beginner/30_Functions/example.py)     |
 | ✅    | Default Arguments                 | [📖](./01_Beginner/31_Default_Arguments/README.md)       | [👨‍💻](./01_Beginner/31_Default_Arguments/example.py)     |
 | ✅    | Keyword Arguments                 | [📖](./01_Beginner/32_Keyword_Arguments/README.md)       | [👨‍💻](./01_Beginner/32_Keyword_Arguments/example.py)     |
-| ❌     | *ARGS & **KWARGS                  | [📖](#)       | [👨‍💻](#)     |
+| ✅     | *ARGS & **KWARGS                  | [📖](./01_Beginner/33_ARGS_KWARGS/README.md)       | [👨‍💻](./01_Beginner/33_ARGS_KWARGS/example.py)     |
 | ❌     | Modules                           | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Scope Resolution                  | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Exception Handling                | [📖](#)       | [👨‍💻](#)     |
