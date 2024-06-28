@@ -36,7 +36,7 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅      | Encryption Program                | [📖](./01_Beginner/29_Encryption_Program/README.md)       | [👨‍💻](./01_Beginner/29_Encryption_Program/example.py)     |
 | ✅     | Functions                         | [📖](./01_Beginner/30_Functions/README.md)       | [👨‍💻](./01_Beginner/30_Functions/example.py)     |
 | ✅    | Default Arguments                 | [📖](./01_Beginner/31_Default_Arguments/README.md)       | [👨‍💻](./01_Beginner/31_Default_Arguments/example.py)     |
-| ❌     | Keyword Arguments                 | [📖](#)       | [👨‍💻](#)     |
+| ✅    | Keyword Arguments                 | [📖](./01_Beginner/32_Keyword_Arguments/README.md)       | [👨‍💻](./01_Beginner/32_Keyword_Arguments/example.py)     |
 | ❌     | *ARGS & **KWARGS                  | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Modules                           | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Scope Resolution                  | [📖](#)       | [👨‍💻](#)     |
