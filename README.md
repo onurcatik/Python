@@ -40,7 +40,7 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅     | *ARGS & **KWARGS                  | [📖](./01_Beginner/33_ARGS_KWARGS/README.md)       | [👨‍💻](./01_Beginner/33_ARGS_KWARGS/example.py)     |
 | ✅     | Modules                           | [📖](./01_Beginner/34_Modules/README.md)       | [👨‍💻](./01_Beginner/34_Modules/example.py)     |
 | ✅     | Scope Resolution                  | [📖](./01_Beginner/35_Scope_Resolution/README.md)       | [👨‍💻](./01_Beginner/35_Scope_Resolution/example.py)     |
-| ❌     | Exception Handling                | [📖](#)       | [👨‍💻](#)     |
+| ✅     | Exception Handling                | [📖](./01_Beginner/36_Exception_Handling/README.md)       | [👨‍💻](./01_Beginner/36_Exception_Handling/example.py)     |
 | ❌     | File Detection                    | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Read a File                       | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Write a File                      | [📖](#)       | [👨‍💻](#)     |
