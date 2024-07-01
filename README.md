@@ -40,11 +40,11 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅     | *ARGS & **KWARGS                  | [📖](./01_Beginner/33_ARGS_KWARGS/README.md)       | [👨‍💻](./01_Beginner/33_ARGS_KWARGS/example.py)     |
 | ✅     | Modules                           | [📖](./01_Beginner/34_Modules/README.md)       | [👨‍💻](./01_Beginner/34_Modules/example.py)     |
 | ✅     | Scope Resolution                  | [📖](./01_Beginner/35_Scope_Resolution/README.md)       | [👨‍💻](./01_Beginner/35_Scope_Resolution/example.py)     |
-| ✅     | Exception Handling                | [📖](./01_Beginner/36_Exception_Handling/README.md)       | [👨‍💻](./01_Beginner/36_Exception_Handling/example.py)     |
-| ❌     | File Detection                    | [📖](#)       | [👨‍💻](#)     |
-| ❌     | Read a File                       | [📖](#)       | [👨‍💻](#)     |
-| ❌     | Write a File                      | [📖](#)       | [👨‍💻](#)     |
-| ❌     | Copy a File                       | [📖](#)       | [👨‍💻](#)     |
+| ✅   | Exception Handling                | [📖](./01_Beginner/36_Exception_Handling/README.md)       | [👨‍💻](./01_Beginner/36_Exception_Handling/example.py)     |
+| ✅     | File Detection                    | [📖](./01_Beginner/37_File_Detection/README.md)       | [👨‍💻](./01_Beginner/37_File_Detection/example.py)     |
+| ✅     | Read a File                       | [📖](./01_Beginner/38_Read_a_File/README.md)       | [👨‍💻](./01_Beginner/38_Read_a_File/example.py)     |
+| ✅     | Write a File                      | [📖](./01_Beginner/39_Write_a_File/README.md)       | [👨‍💻](./01_Beginner/39_Write_a_File/example.py)     |
+| ✅     | Copy a File                       | [📖](./01_Beginner/40_Copy_a_File/README.md)       | [👨‍💻](./01_Beginner/40_Copy_a_File/example.py)     |
 | ❌     | Move a File                       | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Delete a File                     | [📖](#)       | [👨‍💻](#)     |
 
