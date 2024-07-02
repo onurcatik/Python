@@ -45,8 +45,8 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅     | Read a File                       | [📖](./01_Beginner/38_Read_a_File/README.md)       | [👨‍💻](./01_Beginner/38_Read_a_File/example.py)     |
 | ✅     | Write a File                      | [📖](./01_Beginner/39_Write_a_File/README.md)       | [👨‍💻](./01_Beginner/39_Write_a_File/example.py)     |
 | ✅     | Copy a File                       | [📖](./01_Beginner/40_Copy_a_File/README.md)       | [👨‍💻](./01_Beginner/40_Copy_a_File/example.py)     |
-| ❌     | Move a File                       | [📖](#)       | [👨‍💻](#)     |
-| ❌     | Delete a File                     | [📖](#)       | [👨‍💻](#)     |
+| ✅    | Move a File                       | [📖](./01_Beginner/41_Move_a_File/README.md)       | [👨‍💻](./01_Beginner/41_Move_a_File/example.py)     |
+| ✅     | Delete a File                     | [📖](./01_Beginner/42_Delete_a_File/README.md)       | [👨‍💻](./01_Beginner/42_Delete_a_File/example.py)     |
 
 ## Intermediate
 
