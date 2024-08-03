@@ -52,7 +52,7 @@ Whether you're just starting your journey or looking to expand your skills, unde
 
 | Status | Topic                          | Doc           | Code          |
 |--------|--------------------------------|---------------|---------------|
-| ❌     | Object-Oriented Programming    | [📖](#)       | [👨‍💻](#)     |
+| ✅     | Object-Oriented Programming    | [📖](./02_Intermediate/01_Object-Oriented_Programming/README.md)       | [👨‍💻](#)     |
 | ❌     | Class Variables                | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Inheritance                    | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Multilevel Inheritance         | [📖](#)       | [👨‍💻](#)     |
