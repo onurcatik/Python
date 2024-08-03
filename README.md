@@ -52,8 +52,8 @@ Whether you're just starting your journey or looking to expand your skills, unde
 
 | Status | Topic                          | Doc           | Code          |
 |--------|--------------------------------|---------------|---------------|
-| ✅     | Object-Oriented Programming    | [📖](./02_Intermediate/01_Object-Oriented_Programming/README.md)       | [👨‍💻](#)     |
-| ❌     | Class Variables                | [📖](#)       | [👨‍💻](#)     |
+| ✅     | Object-Oriented Programming    | [📖](./02_Intermediate/01_Object-Oriented_Programming/README.md)       | [👨‍💻](./02_Intermediate/01_Object-Oriented_Programming/example.py)     |
+| ✅     | Class Variables                | [📖](./02_Intermediate/02_Class_Variables/README.md)       | [👨‍💻](./02_Intermediate/02_Class_Variables/example.py)
 | ❌     | Inheritance                    | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Multilevel Inheritance         | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Multiple Inheritance           | [📖](#)       | [👨‍💻](#)     |
