@@ -56,7 +56,7 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅     | Class Variables                | [📖](./02_Intermediate/02_Class_Variables/README.md)       | [👨‍💻](./02_Intermediate/02_Class_Variables/example.py)
 | ✅     | Inheritance                    | [📖](./02_Intermediate/03_Inheritance/README.md)       | [👨‍💻](./02_Intermediate/03_Inheritance/example.py)     |
 | ✅     | Multilevel Inheritance         | [📖](./02_Intermediate/04_Multilevel_Inheritance/README.md)       | [👨‍💻](./02_Intermediate/04_Multilevel_Inheritance/example.py)     |
-| ❌     | Multiple Inheritance           | [📖](#)       | [👨‍💻](#)     |
+| ✅     | Multiple Inheritance           | [📖](./02_Intermediate/05_Multiple_Inheritance/README.md)       | [👨‍💻](./02_Intermediate/05_Multiple_Inheritance/example.py)     |
 | ❌     | Method Overriding              | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Method Chaining                | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Super Function                 | [📖](#)       | [👨‍💻](#)     |
