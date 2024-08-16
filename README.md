@@ -68,7 +68,7 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ❌     | Higher Order Functions         | [📖](#)       | [👨‍💻](#)     |
 | ✅     | Lambda λ                       | [📖](./02_Intermediate/15_Lambda/README.md)       | [👨‍💻](./02_Intermediate/15_Lambda/example.py)     |
 | ✅     | Sort                           | [📖](./02_Intermediate/16_Sort/README.md)       | [👨‍💻](./02_Intermediate/16_Sort/example.py)     |
-| ❌     | Map                            | [📖](#)       | [👨‍💻](#)     |
+| ✅     | Map                            | [📖](./02_Intermediate/17_Map/README.md)       | [👨‍💻](./02_Intermediate/17_Map/example.py)     |
 | ❌     | Filter                         | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Reduce                         | [📖](#)       | [👨‍💻](#)     |
 | ❌     | List Comprehension             | [📖](#)       | [👨‍💻](#)     |
