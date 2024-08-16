@@ -67,7 +67,7 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ❌     | Assign Functions to Variables  | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Higher Order Functions         | [📖](#)       | [👨‍💻](#)     |
 | ✅     | Lambda λ                       | [📖](./02_Intermediate/15_Lambda/README.md)       | [👨‍💻](./02_Intermediate/15_Lambda/example.py)     |
-| ❌     | Sort                           | [📖](#)       | [👨‍💻](#)     |
+| ✅     | Sort                           | [📖](./02_Intermediate/16_Sort/README.md)       | [👨‍💻](./02_Intermediate/16_Sort/example.py)     |
 | ❌     | Map                            | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Filter                         | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Reduce                         | [📖](#)       | [👨‍💻](#)     |
