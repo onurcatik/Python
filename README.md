@@ -60,7 +60,7 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ❌     | Method Overriding              | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Method Chaining                | [📖](#)       | [👨‍💻](#)     |
 | ✅     | Super Function                 | [📖](./02_Intermediate/08_Super_Function/README.md)       | [👨‍💻](./02_Intermediate/08_Super_Function/example.py)     |
-| ❌     | Abstract Classes               | [📖](#)       | [👨‍💻](#)     |
+| ✅     | Abstract Classes               | [📖](./02_Intermediate/09_Abstract_Classes/README.md)       | [👨‍💻](./02_Intermediate/09_Abstract_Classes/example.py)     |
 | ❌     | Objects as Arguments           | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Duck Typing                    | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Walrus Operator :=             | [📖](#)       | [👨‍💻](#)     |
