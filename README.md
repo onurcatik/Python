@@ -59,7 +59,7 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅     | Multiple Inheritance           | [📖](./02_Intermediate/05_Multiple_Inheritance/README.md)       | [👨‍💻](./02_Intermediate/05_Multiple_Inheritance/example.py)     |
 | ❌     | Method Overriding              | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Method Chaining                | [📖](#)       | [👨‍💻](#)     |
-| ❌     | Super Function                 | [📖](#)       | [👨‍💻](#)     |
+| ✅     | Super Function                 | [📖](./02_Intermediate/08_Super_Function/README.md)       | [👨‍💻](./02_Intermediate/08_Super_Function/example.py)     |
 | ❌     | Abstract Classes               | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Objects as Arguments           | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Duck Typing                    | [📖](#)       | [👨‍💻](#)     |
