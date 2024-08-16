@@ -62,7 +62,7 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅     | Super Function                 | [📖](./02_Intermediate/08_Super_Function/README.md)       | [👨‍💻](./02_Intermediate/08_Super_Function/example.py)     |
 | ✅     | Abstract Classes               | [📖](./02_Intermediate/09_Abstract_Classes/README.md)       | [👨‍💻](./02_Intermediate/09_Abstract_Classes/example.py)     |
 | ❌     | Objects as Arguments           | [📖](#)       | [👨‍💻](#)     |
-| ❌     | Duck Typing                    | [📖](#)       | [👨‍💻](#)     |
+| ✅     | Duck Typing                    | [📖](./02_Intermediate/11_Duck_Typing/README.md)       | [👨‍💻](./02_Intermediate/11_Duck_Typing/example.py)     |
 | ❌     | Walrus Operator :=             | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Assign Functions to Variables  | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Higher Order Functions         | [📖](#)       | [👨‍💻](#)     |

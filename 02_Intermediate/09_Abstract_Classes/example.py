@@ -11,7 +11,7 @@ class Vehicle(ABC):
     def stop(self):
         """Method to stop the vehicle"""
         pass
-    # This will raise a TypeError
+  
 # vehicle = Vehicle()
 
 class Car(Vehicle):
