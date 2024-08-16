@@ -70,7 +70,7 @@ Whether you're just starting your journey or looking to expand your skills, unde
 | ✅     | Sort                           | [📖](./02_Intermediate/16_Sort/README.md)       | [👨‍💻](./02_Intermediate/16_Sort/example.py)     |
 | ✅     | Map                            | [📖](./02_Intermediate/17_Map/README.md)       | [👨‍💻](./02_Intermediate/17_Map/example.py)     |
 | ✅     | Filter                         | [📖](./02_Intermediate/18_Filter/README.md)       | [👨‍💻](./02_Intermediate/18_Filter/example.py)     |
-| ❌     | Reduce                         | [📖](#)       | [👨‍💻](#)     |
+| ✅      | Reduce                         | [📖](./02_Intermediate/19_Reduce/README.md)       | [👨‍💻](./02_Intermediate/19_Reduce/example.py)     |
 | ❌     | List Comprehension             | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Dictionary Comprehension       | [📖](#)       | [👨‍💻](#)     |
 | ❌     | Zip Function                   | [📖](#)       | [👨‍💻](#)     |
